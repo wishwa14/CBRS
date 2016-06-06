@@ -1,0 +1,77 @@
+.navbar{
+	padding-top:10px;
+	padding-bottom:10px;
+	opacity:0.9;
+	font-size:15px;
+	
+}
+
+
+
+
+
+.navbar-default{
+	position:relative;
+     z-index: 10000;
+	
+	
+}
+.topimg{
+	margin-top:-20px;
+}
+
+.tophead{
+font-size:20px;
+	
+}
+.navbar-brand{
+	padding-top:0px;
+	margin-top:-17px;
+	margin-left:-10px;
+	padding-left:100px;
+	
+
+}
+
+.buttonlist{
+	margin-top:30px;
+	
+}
+.panel{
+	
+	background-color:cc;
+	margin-top:27px;
+	
+	
+}
+.artical1{
+	background-color:#FFCC66;
+	height:880px;
+}
+.adjust{
+	font-size:45px;
+}
+
+
+.list-group-item{
+	
+	font-weight:bold;
+	border-color:black;
+}
+
+.adminlogo{
+	margin-top:10px;
+}
+
+.family{
+
+	margin-top:50px;
+	height:376px;
+}
+
+
+.slideimages{
+	margin-top:20px;
+	
+}
+

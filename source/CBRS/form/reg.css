@@ -1,0 +1,40 @@
+.modal-content {
+  position: relative;
+  background-color: #ffffff;
+  border: 1px solid #999999;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid #000000 ;
+  border-radius: 0;
+  outline: none;
+  -webkit-box-shadow: 0 10px 15px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.5);
+  background-clip: padding-box;
+
+}
+.modal-header {
+  
+  background: #F0F0F0;
+  min-height: 16.4286px;
+  padding: 10px 15px;
+}
+.close {
+  float: right;
+  font-size: 5px;
+  font-weight: 200;
+  line-height: 1;
+  color: #000;
+  text-shadow: 0 1px 0 #fff;
+  opacity: .2;
+  filter: alpha(opacity=20);
+}
+.modal-body {
+  position: relative;
+}
+
+
+
+#contact {
+    margin-left: 30px;
+    margin-top: 10px;
+
+}

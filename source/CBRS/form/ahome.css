@@ -1,0 +1,73 @@
+/*main nav bar*/
+.navbar{
+	padding-top:10px;
+	padding-bottom:10px;
+	opacity:0.9;
+	font-size:15px;
+	
+}
+
+
+
+
+/*parent nav bar*/
+.navbar-default{
+	position:relative;
+     z-index: 10000;
+	
+	
+}
+
+/*slide show position*/
+.topimg{
+	margin-top:-20px;
+}
+
+
+.tophead{
+font-size:20px;
+	
+}
+
+/*admin home button list*/
+.buttonlist{
+	margin-top:30px;
+	
+}
+
+/*family panel*/
+.panel{
+	
+	margin-top:27px;
+	
+	
+}
+
+/*home page below the slide show*/
+.artical1{
+	background-color:#FFCC66;
+	height:880px;
+}
+
+/*rules and regulation list*/
+
+.list-group-item{
+	background-color:#FF9933;
+	font-weight:bold;
+	border-color:black;
+}
+
+
+/* family main row features*/
+.family{
+	background-color:#faf2e0;
+	margin-top:70px;
+	height:376px;
+}
+
+/*family s;ide show images*/
+.slideimages{
+	margin-top:20px;
+	
+}
+

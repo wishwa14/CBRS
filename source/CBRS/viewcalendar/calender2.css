@@ -1,0 +1,105 @@
+
+
+
+div.day-number	 { 
+	
+	position:absolute; 
+	color:black;
+	z-index:2; 
+	top:-5px; 
+	right:-2px; 
+	padding:2px; 
+	font-size:20px;
+	width:2px; 
+	text-align:center; 
+}
+td.calendar-day, td.calendar-day-np { /* dates info*/
+	width:140px; 
+	padding:25px 80px 30px 10px; 
+	border:1px solid #000000 ; 
+	background-color: #ffcc81;
+	text-align:center; 
+}
+.calendar{ /* calendar position*/
+	position:static;
+	margin-left:45px;
+	margin-top:-490px;
+	
+	
+	
+}
+.calendar-row{
+
+	
+	
+}
+.calendar-day-head{ /*days info*/
+	
+	
+	width:140px;
+	padding-top:20px;
+	padding-bottom: 25px;
+	font-size:20px;
+	font-weight:bold;
+	text-align:justify;
+	border:1px solid #000000; 
+	text-align:center;
+	background-color: #ffb84e;	
+	
+}
+.event{
+	position:absolute;
+	
+	height:55px;
+	background-color: #d80000 ;
+	color:transparent;
+	opacity:0.7;
+	top:-5px;
+	margin-left:1px;
+	margin-top:-15px;
+	padding-bottom:30px;
+	padding-left:70px;
+	
+	
+}
+
+
+.molink{/* month and year 's position*/
+	position:absolute;
+	top:80px;
+	left:480px;
+	font-size:30px;
+	font-weight:bold;
+	padding-bottom:50px;
+	
+}
+
+.con{/* drop down list position*/
+	margin-top:30px;
+	margin-left:25px;
+	
+}
+.cont1{/* next month .. previous month.. position */
+	position:relative;
+	top:30px;
+	left:42px;
+	text-align:left; 
+	
+}
+.cont2{/* next month .. previous month.. position */
+	position:absolute;
+	bottom:72px;
+	left:940px;
+	 
+	
+}
+
+
+
+.control{ /*next month.. previous month..*/
+	color:#3300cc;
+	font-size:20px;
+}
+.form-control{
+	color:#3300cc;
+}
